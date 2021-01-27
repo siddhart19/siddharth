@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background-color: azure;
+}
+
+div {
+    margin-top: 15px;
+}
+
+.ibox {
+    display: flex;
+    justify-content: center;
+}
+.box{
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: darkseagreen;
+    
+}
+img{
+    width: 350px;
+    height: 250px;
+}
